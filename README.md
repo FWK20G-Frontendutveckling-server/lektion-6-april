@@ -1,4 +1,4 @@
-# Lektion 1 april
+# Lektion 6 april
 
 ## Övningar
 
@@ -13,9 +13,10 @@ En express server:
 
 Ta koden du gjorde i torsdagens övning och gör om det till att använda express istället.
 
+**Level up**
+Skapa en route som du sen använder en fetch-request i ditt vanilla javascript för att göra ett anrop mot.
+
 ## Artiklar
-
-
 
 
 ## Videor
