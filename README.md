@@ -17,11 +17,17 @@ Ta koden du gjorde i torsdagens övning och gör om det till att använda expres
 Skapa en route som du sen använder en fetch-request i ditt vanilla javascript för att göra ett anrop mot.
 
 ## Artiklar
+Ladda ner Insomnia: https://insomnia.rest/
 
+Express dokumentation: http://expressjs.com/
+
+Om problemlösning: https://blog.usejournal.com/how-a-googler-solves-coding-problems-ec5d59e73ec5
 
 ## Videor
+Introduktion till express: https://www.youtube.com/watch?v=9TSBKO59u0Y&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp&index=24
 
+Async Javascript (Callbacks, Promises, Async/Await): https://www.youtube.com/watch?v=_8gHHBlbziw
 
 ## Inspelningar
 
-https://github.com/FWK20G-Frontendutveckling-server/lektion-1-april
+https://drive.google.com/drive/folders/1PFZ-93Zge6_4GWh9HisOrIA8fmLKk0gz?usp=sharing
