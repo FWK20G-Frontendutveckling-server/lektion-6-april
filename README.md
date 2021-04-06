@@ -14,7 +14,10 @@ En express server:
 Ta koden du gjorde i torsdagens övning och gör om det till att använda express istället.
 
 **Level up**
+
 Skapa en route som du sen använder en fetch-request i ditt vanilla javascript för att göra ett anrop mot.
+
+API-övning med Express: https://gist.github.com/zocom-christoffer-wallenberg/e43de4fa7daf3e659067677d2d567612
 
 ## Artiklar
 Ladda ner Insomnia: https://insomnia.rest/
